@@ -1,32 +1,45 @@
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# 🎯 Two Sum
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+## 📝 Problem Description
+
+Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
+
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
 You can return the answer in any order.
 
- 
+> **Goal:** Find two distinct indices `i` and `j` such that `nums[i] + nums[j] == target`.
 
-Example 1:
+---
 
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
-Example 2:
+## 📥 Example Cases
 
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
-Example 3:
+### **Example 1**
+* **Input:** `nums = [2, 7, 11, 15]`, `target = 9`
+* **Output:** `[0, 1]`
+* **Explanation:** Because `nums[0] + nums[1] == 9`, we return `[0, 1]`.
 
-Input: nums = [3,3], target = 6
-Output: [0,1]
- 
+### **Example 2**
+* **Input:** `nums = [3, 2, 4]`, `target = 6`
+* **Output:** `[1, 2]`
+* **Explanation:** Because `nums[1] + nums[2] == 6`, we return `[1, 2]`.
 
-Constraints:
+### **Example 3**
+* **Input:** `nums = [3, 3]`, `target = 6`
+* **Output:** `[0, 1]`
+* **Explanation:** Because `nums[0] + nums[1] == 6`, we return `[0, 1]`.
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
- 
+---
 
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+## ⚙️ Constraints
+
+* $2 \le \text{nums.length} \le 10^4$
+* $-10^9 \le \text{nums[i]} \le 10^9$
+* $-10^9 \le \text{target} \le 10^9$
+* **Only one valid answer exists.**
+
+---
+
+## 💡 Follow-up Challenge
+
+Can you come up with an algorithm that is less
