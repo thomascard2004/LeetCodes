@@ -1,9 +1,9 @@
-# 🥷 Code Dojo: Meus Desafios de Programação
+# 🥷 LeetCodes: Desafios de Programação
 
 ![Repo Size](https://img.shields.io/github/repo-size/thomascard2004/LeetCodes?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/thomascard2004/LeetCodes?style=for-the-badge)
-
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Bem-vindo ao meu repositório central de desafios de programação! 🚀  
 Este espaço foi criado para registrar minha jornada diária resolvendo problemas de lógica, estruturas de dados e algoritmos (provenientes de plataformas como LeetCode, Beecrowd, HackerRank, etc.).
