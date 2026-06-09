@@ -1,8 +1,8 @@
-# LeetCodes# 🥷 Code Dojo: Meus Desafios de Programação
+# 🥷 Code Dojo: Meus Desafios de Programação
 
-![Repo Size](https://img.shields.io/github/repo-size/seu-usuario/nome-do-repo?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/seu-usuario/nome-do-repo?style=for-the-badge)
-![License](https://img.shields.io/github/license/seu-usuario/nome-do-repo?style=for-the-badge&color=green)
+![Repo Size](https://img.shields.io/github/repo-size/thomascard2004/LeetCodes?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/thomascard2004/LeetCodes?style=for-the-badge)
+![License](https://img.shields.io/github/license/thomascard2004/LeetCodes?style=for-the-badge&color=green)
 
 Bem-vindo ao meu repositório central de desafios de programação! 🚀  
 Este espaço foi criado para registrar minha jornada diária resolvendo problemas de lógica, estruturas de dados e algoritmos (provenientes de plataformas como LeetCode, Beecrowd, HackerRank, etc.).
@@ -38,7 +38,7 @@ Abaixo está o índice de desafios resolvidos, organizados por ordem de conclus�
 Para manter o projeto escalável e limpo, cada desafio fica isolado em sua própria pasta:
 
 ```text
-📂 nome-do-repositorio/
+📂 LeetCodessitorio/
 ├── 📜 README.md                 # Este índice geral
 └── 📂 01-two-sum/               # Pasta de um desafio específico
     ├── 📜 README.md             # Explicação, enunciado e análise de complexidade
